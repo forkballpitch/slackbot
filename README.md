@@ -1,3 +1,6 @@
+# Slack 연동소스
+
+
 # Slack Notification
 Spring boot으로 초간단하게 Slack Message 보내기를 만들어 보는 프로젝트입니다. [Slack Message](https://api.slack.com/docs/messages/builder) 에서 제공하는 3가지 메시지를 보내 보겠습니다. 전체 코드를 보시는 것을 권장해 드립니다.
 
