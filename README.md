@@ -1,4 +1,4 @@
-# Slack 연동소스
+# Slack 연동소스（참고용）
 
 
 # Slack Notification
